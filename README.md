@@ -55,3 +55,7 @@ This implementation uses quantum-resistant cryptographic primitives to secure wa
 ## License
 
 MIT License - see LICENSE file for details.
+
+## Related Projects
+
+- [Quantum Internet](https://quantum-internet.vercel.app) - Global Quantum Computing Network powering LUXBIN Light Language blockchain.
